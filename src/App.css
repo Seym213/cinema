@@ -1,0 +1,9 @@
+.card:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    z-index: 1;
+}
+
+.navbar{
+   background: linear-gradient(to right, rgb(252, 186, 211),rgb(255, 153, 153));
+}
